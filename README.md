@@ -14,6 +14,14 @@ Estoy entusiasmado por colaborar en proyectos innovadores, contribuir con nuevas
 
 
 ### ⚔️ &nbsp;Skills
-
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>ReactJS</li>
+  <li>Angular</li>
+  <li>GIT</li>
+</ul>
 
 ### 🙋‍♂️ &nbsp;Contacto
