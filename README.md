@@ -12,3 +12,8 @@ Estoy entusiasmado por colaborar en proyectos innovadores, contribuir con nuevas
 
 ¡Gracias por visitar mi perfil y espero tener la oportunidad de trabajar juntos en el futuro!
 
+
+### ⚔️ &nbsp;Skills
+
+
+### 🙋‍♂️ &nbsp;Contacto
