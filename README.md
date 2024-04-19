@@ -1,6 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola, soy Pablo! 👋</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>¡Hola, soy Pablo! 👋</h1>
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
