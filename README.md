@@ -1,5 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>¡Hola, soy Pablo! 👋</h1>
 
+<h2>Front-end Developer</h2>
+
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 Apasionado desarrollador Front-end con un firme compromiso de sobresalir en el mundo del desarrollo web. Mi fascinación por la programación se refleja en cada línea de código y en cada proyecto en los que participo.
