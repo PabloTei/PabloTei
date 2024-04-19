@@ -4,18 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-apasionado desarrollador frontend con una insaciable sed de conocimiento y una determinación inquebrantable para destacar en el mundo del desarrollo web. Mi pasión por la programación se manifiesta en cada línea de código que escribo y en cada proyecto en el que participo.
+Apasionado desarrollador Front-end con un firme compromiso de sobresalir en el mundo del desarrollo web. Mi fascinación por la programación se refleja en cada línea de código y en cada proyecto en los que participo.
 
-Mi viaje en el mundo del desarrollo comenzó con una curiosidad inagotable y un deseo innato de crear experiencias web sorprendentes. Desde entonces, he estado inmerso en el emocionante mundo del desarrollo frontend, explorando nuevas tecnologías, perfeccionando mis habilidades y enfrentándome a desafíos con entusiasmo y determinación.
+Me especializo en el desarrollo con Angular y React, y estoy constantemente buscando oportunidades para aprender y crecer en estas tecnologías. Mi enfoque se centra en crear experiencias web visualmente impactantes y altamente funcionales que garanticen una experiencia de usuario excepcional.
 
-Lo que me impulsa es la oportunidad de aprender algo nuevo cada día y de superar mis propios límites. Mi mentalidad de aprendizaje constante me ha llevado a dominar una amplia gama de tecnologías frontend, desde HTML, CSS y JavaScript hasta las últimas bibliotecas y frameworks como React, Vue y Angular.
+Estoy entusiasmado por colaborar en proyectos innovadores, contribuir con nuevas ideas creativas y ser parte de equipos talentosos que buscan hacer una diferencia en el mundo digital. Si estás buscando un desarrollador Front-end apasionado y comprometido, ¡estaré encantado de ser parte de tu equipo!
 
-Mi objetivo es no solo crear aplicaciones web visualmente impresionantes, sino también garantizar una experiencia de usuario fluida y atractiva en cada proyecto en el que trabajo. Me apasiona colaborar con equipos talentosos, aportar nuevas ideas creativas y contribuir al éxito de los proyectos de manera significativa.
-
-Estoy emocionado por la oportunidad de trabajar en proyectos innovadores, aprender de mentes brillantes y hacer una diferencia en el mundo del desarrollo web. Siempre estoy abierto a nuevas oportunidades y desafíos, ¡así que no dudes en contactarme si crees que puedo ser una adición valiosa a tu equipo!
-
-¡Gracias por visitar mi perfil y espero tener la oportunidad de colaborar contigo en el futuro!
-
+¡Gracias por visitar mi perfil y espero tener la oportunidad de trabajar juntos en el futuro!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
