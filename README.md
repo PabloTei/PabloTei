@@ -2,15 +2,21 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+apasionado desarrollador frontend con una insaciable sed de conocimiento y una determinación inquebrantable para destacar en el mundo del desarrollo web. Mi pasión por la programación se manifiesta en cada línea de código que escribo y en cada proyecto en el que participo.
+
+Mi viaje en el mundo del desarrollo comenzó con una curiosidad inagotable y un deseo innato de crear experiencias web sorprendentes. Desde entonces, he estado inmerso en el emocionante mundo del desarrollo frontend, explorando nuevas tecnologías, perfeccionando mis habilidades y enfrentándome a desafíos con entusiasmo y determinación.
+
+Lo que me impulsa es la oportunidad de aprender algo nuevo cada día y de superar mis propios límites. Mi mentalidad de aprendizaje constante me ha llevado a dominar una amplia gama de tecnologías frontend, desde HTML, CSS y JavaScript hasta las últimas bibliotecas y frameworks como React, Vue y Angular.
+
+Mi objetivo es no solo crear aplicaciones web visualmente impresionantes, sino también garantizar una experiencia de usuario fluida y atractiva en cada proyecto en el que trabajo. Me apasiona colaborar con equipos talentosos, aportar nuevas ideas creativas y contribuir al éxito de los proyectos de manera significativa.
+
+Estoy emocionado por la oportunidad de trabajar en proyectos innovadores, aprender de mentes brillantes y hacer una diferencia en el mundo del desarrollo web. Siempre estoy abierto a nuevas oportunidades y desafíos, ¡así que no dudes en contactarme si crees que puedo ser una adición valiosa a tu equipo!
+
+¡Gracias por visitar mi perfil y espero tener la oportunidad de colaborar contigo en el futuro!
+
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
